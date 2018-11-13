@@ -3,6 +3,10 @@ h1, h3{
     font-weight: 600;
 }
 
-#parnters div.row div img{
+#partners div.row div img{
     max-width: 160px;
+}
+
+.tutors div ul{
+    font-size: 17px;
 }
