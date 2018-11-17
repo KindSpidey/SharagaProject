@@ -10,3 +10,12 @@ h1, h3{
 .tutors div ul{
     font-size: 17px;
 }
+
+#menu li a{
+    color: #00a607;
+}
+
+.score{
+    font-weight: 600;
+    color: #00a607;
+}
