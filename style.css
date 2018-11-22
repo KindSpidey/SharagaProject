@@ -1,3 +1,15 @@
+.navbar{
+    background: #D1D2D7;
+}
+
+#menu li a{
+    color: #00A607;
+}
+
+body{
+    background: url("Images/background.jpg");
+}
+
 h1, h3{
     color: black;
     font-weight: 600;
@@ -9,10 +21,11 @@ h1, h3{
 
 .tutors div ul{
     font-size: 17px;
+    list-style-type: none;
 }
 
-#menu li a{
-    color: #00a607;
+.tutors div ul li:before{
+    content: "— ";
 }
 
 .score{
